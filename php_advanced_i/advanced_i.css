@@ -1,0 +1,20 @@
+* {
+	border-collapse: collapse;
+	font-family: monospace;
+}
+th, td {
+	border: 1px solid black;
+	text-align: center;
+	padding: 5px;
+}
+th, td.bold {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+tr.reverse {
+	background-color: black;
+	color: white;
+}
+tr.reverse td {
+	border: 1px solid white;
+}
