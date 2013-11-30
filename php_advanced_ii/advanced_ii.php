@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Checkerboard</title>
-		<link rel="stylesheet" href="checkerboard.css">
+		<link rel="stylesheet" href="advanced_ii.css">
 	</head>
 	<body>
 		<?php
